@@ -5,3 +5,7 @@
 ## Android Annotations
 
 ## Testing
+
+## Deployment
+
+UsingAcraToReportCrashs
